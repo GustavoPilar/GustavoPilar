@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Gustavo Henrique, um Desenvolvedor Java ☕
 
 <picture>
-  <a href="https://github.com/GustavoPilar/" target="_blank"></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoPilar&show_icons=true&theme=tokyonight"/>
+  <a href="https://github.com/GustavoPilar"><img src="https://github-readme-stats.vercel.app/api?username=GustavoPilar&show_icons=true&theme=tokyonight"/></a>
 </picture>
 
 <div style="display: inline_block"><br>
