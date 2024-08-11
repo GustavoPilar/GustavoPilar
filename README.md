@@ -1,4 +1,6 @@
-## Olá! Eu sou o Gustavo Henrique, um Desenvolvedor Java ☕
+## Olá! Eu sou o Gustavo Henrique, um Desenvolvedor  FullStack
+
+<p>Linguagem preferida? Java ☕</p>
 
 <picture>
   <a href="https://github.com/GustavoPilar"><img src="https://github-readme-stats.vercel.app/api?username=GustavoPilar&show_icons=true&theme=tokyonight"/></a>
